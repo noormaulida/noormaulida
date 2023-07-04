@@ -13,6 +13,10 @@
 </p>
 <br>
 
+#### Development Metrics ⚡
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 #### Top Programming Languages ✨
 <p align="center">
   <img src="https://api.githubtrends.io/user/svg/noormaulida/langs?time_range=one_year&include_private=true&compact=true&theme=dark" />
