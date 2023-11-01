@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -58,17 +58,13 @@ Sunday                   1517 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue.js                   3 hrs 35 mins       ████████████████████░░░░░   79.93 % 
-Go                       35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-XML                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -88,7 +84,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2023 18:42:48 UTC
+ Last Updated on 01/11/2023 18:43:17 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
