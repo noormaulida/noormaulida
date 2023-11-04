@@ -58,13 +58,17 @@ Sunday                   1517 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   31 mins             █████████░░░░░░░░░░░░░░░░   36.56 % 
+Other                    14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Bash                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Docker                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -84,7 +88,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2023 18:43:13 UTC
+ Last Updated on 04/11/2023 18:42:26 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
