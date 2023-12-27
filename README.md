@@ -58,15 +58,13 @@ Sunday                   1510 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           3 mins              ███████████████████░░░░░░   75.35 % 
-PHP                      1 min               ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -86,7 +84,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2023 18:41:27 UTC
+ Last Updated on 27/12/2023 18:41:09 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
