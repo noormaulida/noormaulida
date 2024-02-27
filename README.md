@@ -58,14 +58,13 @@ Sunday                   1537 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     49 mins             █████████████████████████   99.74 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -85,7 +84,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2024 18:41:16 UTC
+ Last Updated on 27/02/2024 18:42:55 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
