@@ -9,7 +9,7 @@
 **I'm Noor Maulida (she/her)** - I'm a Full Stack Developer. I'm interested in website development as a backend and frontend developer.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,php,laravel,nodejs,vue,express,ruby,mongodb,docker,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=go,php,laravel,nodejs,vue,express,ruby,python,mongodb,docker,aws,gcp" />
 </p>
 <br>
 
