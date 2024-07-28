@@ -23,6 +23,8 @@
 
 > 📦 437.7 kB Used in GitHub's Storage 
  > 
+> 🏆 41 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 34 Public Repositories 
@@ -56,17 +58,13 @@ Sunday                   1537 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    30 mins             █████████████░░░░░░░░░░░░   52.77 % 
-Go                       18 mins             ████████░░░░░░░░░░░░░░░░░   31.98 % 
-Markdown                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -86,7 +84,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2024 18:43:10 UTC
+ Last Updated on 28/07/2024 18:42:59 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
