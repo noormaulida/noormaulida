@@ -15,7 +15,7 @@
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,13 +58,17 @@ Sunday                   1537 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     11 mins             ███████████████░░░░░░░░░░   58.70 % 
+Bash                     5 mins              ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+Prisma                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -84,7 +88,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2024 18:45:04 UTC
+ Last Updated on 02/08/2024 18:44:27 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
