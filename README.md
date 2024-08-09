@@ -15,19 +15,21 @@
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 438.3 kB Used in GitHub's Storage 
  > 
+> 🏆 97 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 35 Public Repositories 
  > 
-> 🔑 37 Private Repositories 
+> 🔑 38 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -56,17 +58,17 @@ Sunday                   1537 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   4 hrs 55 mins       █████████████░░░░░░░░░░░░   52.99 % 
-Docker                   1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-JavaScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Python                   9 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.95 % 
+TypeScript               5 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+Docker                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Markdown                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+JavaScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  22 hrs 6 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      22 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -86,7 +88,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2024 18:46:43 UTC
+ Last Updated on 09/08/2024 18:44:54 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
