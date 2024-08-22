@@ -15,13 +15,15 @@
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 438.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 97 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -56,17 +58,17 @@ Sunday                   1537 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       15 hrs 33 mins      ███████████░░░░░░░░░░░░░░   44.55 % 
-TypeScript               7 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-SCSS                     5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Docker                   2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Bash                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Go                       16 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   35.77 % 
+TypeScript               14 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   32.59 % 
+SCSS                     7 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Docker                   2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Bash                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 54 mins      █████████████████████████   100.00 % 
+VS Code                  45 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      34 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      45 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -86,7 +88,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2024 18:45:09 UTC
+ Last Updated on 22/08/2024 18:44:54 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
