@@ -15,7 +15,7 @@
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-595%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,7 +23,7 @@
 
 > 📦 485.7 kB Used in GitHub's Storage 
  > 
-> 🏆 213 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -58,17 +58,17 @@ Sunday                   1556 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               5 hrs 9 mins        ████████████░░░░░░░░░░░░░   48.08 % 
-JavaScript               4 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   39.80 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               7 hrs 20 mins       ██████████████░░░░░░░░░░░   54.74 % 
+JavaScript               4 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.88 % 
+Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 23 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -88,7 +88,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2024 18:48:03 UTC
+ Last Updated on 12/10/2024 18:46:09 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
