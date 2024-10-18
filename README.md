@@ -15,7 +15,7 @@
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-623%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-626%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,13 +23,13 @@
 
 > 📦 502.5 kB Used in GitHub's Storage 
  > 
-> 🏆 226 Contributions in the Year 2024
+> 🏆 227 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 35 Public Repositories 
  > 
-> 🔑 49 Private Repositories 
+> 🔑 52 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -58,17 +58,17 @@ Sunday                   1562 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               27 hrs 57 mins      █████████████████████░░░░   85.20 % 
-JavaScript               2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Other                    30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-HTML                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Markdown                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TypeScript               31 hrs 38 mins      ███████████████████████░░   91.42 % 
+JavaScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Other                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+HTML                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Markdown                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  34 hrs 36 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      32 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -88,7 +88,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2024 18:49:00 UTC
+ Last Updated on 18/10/2024 18:48:43 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
