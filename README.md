@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -58,15 +58,13 @@ Sunday                   1562 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      1 hr 1 min          ████████████████████░░░░░   80.83 % 
-Blade Template           14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -86,7 +84,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2024 18:49:24 UTC
+ Last Updated on 01/11/2024 18:48:24 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
