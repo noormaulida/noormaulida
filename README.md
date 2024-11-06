@@ -17,13 +17,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 502.6 kB Used in GitHub's Storage 
- > 
-> 🏆 236 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -84,7 +82,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2024 18:49:00 UTC
+ Last Updated on 06/11/2024 18:49:13 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
