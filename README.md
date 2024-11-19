@@ -15,9 +15,9 @@
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-661%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -58,17 +58,16 @@ Sunday                   1563 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               10 hrs 11 mins      ████████████████████████░   96.74 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-TypeScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+JavaScript               1 hr 55 mins        ██████████████████░░░░░░░   73.26 % 
+Other                    32 mins             █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  2 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -88,7 +87,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2024 18:51:07 UTC
+ Last Updated on 19/11/2024 18:50:45 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
