@@ -23,6 +23,8 @@
 
 > 📦 505.8 kB Used in GitHub's Storage 
  > 
+> 🏆 254 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 35 Public Repositories 
@@ -56,13 +58,13 @@ Sunday                   1563 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C#                       10 mins             █████████████████████████   100.00 % 
+C#                       4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -82,7 +84,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2024 18:47:29 UTC
+ Last Updated on 27/12/2024 18:47:07 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
