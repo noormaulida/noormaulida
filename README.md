@@ -58,17 +58,13 @@ Sunday                   1563 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      57 mins             ████████████████░░░░░░░░░   65.44 % 
-Bash                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Other                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-C#                       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -88,7 +84,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2025 18:47:51 UTC
+ Last Updated on 04/01/2025 18:46:18 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
