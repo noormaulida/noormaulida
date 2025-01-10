@@ -15,13 +15,13 @@
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-675%20hrs%2026%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 505.9 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -29,6 +29,42 @@
  > 
 > 🔑 58 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                498 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+🌆 Daytime                1240 commits        ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+🌃 Evening                1698 commits        █████████░░░░░░░░░░░░░░░░   34.41 % 
+🌙 Night                  1499 commits        ████████░░░░░░░░░░░░░░░░░   30.37 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   788 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Tuesday                  584 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Wednesday                410 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Thursday                 450 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Friday                   308 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Saturday                 832 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Sunday                   1563 commits        ████████░░░░░░░░░░░░░░░░░   31.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -46,7 +82,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2025 18:50:34 UTC
+ Last Updated on 10/01/2025 18:48:47 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
