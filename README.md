@@ -6,10 +6,10 @@
 </p>
 
 #### Hello world! 👋
-**I'm Noor Maulida (she/her)** - I'm a Full Stack Developer. I'm interested in website development as a backend and frontend developer.
+**I'm Noor Maulida (she/her)** - I'm a Full Stack Developer. I'm interested in application development as a backend and frontend developer, both website and mobile apps development are on my expertises.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,laravel,nodejs,vue,express,ruby,python,mongodb,docker,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=go,laravel,nodejs,vue,react,flutter,python,mongodb,docker,aws,gcp" />
 </p>
 <br>
 
