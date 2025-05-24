@@ -6,12 +6,23 @@
 </p>
 
 #### Hello world! 👋
-**I'm Noor Maulida (she/her)** - I'm a Full Stack Developer. I'm interested in application development as a backend and frontend developer, both website and mobile apps development are on my expertises.
+**I'm Noor Maulida (she/her)** - I'm a Full Stack Developer. I'm interested in application development as a backend and frontend developer with over **10 years** of hands-on experience in building scalable, robust, and innovative solutions.
 
+#### Technologies I'm Proficient In
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,laravel,nodejs,vue,react,flutter,python,mongodb,docker,aws,gcp" />
 </p>
 <br>
+
+#### My Development Journey
+For the past decade (and counting!), I've been deeply involved in the world of web development, mobile apps development, cloud computing and IoT application development. My journey has taken me through various roles and projects, allowing me to develop a strong foundation in:
+
+* Designing and implementing microservices architectures for high-traffic applications
+* Leading and mentoring development large teams, fostering collaborative environments
+* Developing and deploying machine learning models for predictive analytics
+* Deep understanding and implementation experience with IoT protocols like CANbus, Bluetooth Low Energy (BLE), MQTT, CoAP, XMPP, and DDS
+* Proficiency in reactive programming paradigms and frameworks like RxJava (Android), RxSwift (iOS), or using reactive state management solutions in cross-platform frameworks (e.g., RxDart in Flutter, RxJS in React Native)
+* Profiling and optimizing app performance for smooth animations, efficient resource usage, and fast load times, including memory management and multithreading
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
