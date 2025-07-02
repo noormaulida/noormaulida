@@ -26,13 +26,13 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C110%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 507.5 kB Used in GitHub's Storage 
- > 
-> 🏆 189 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -40,6 +40,48 @@ For the past decade (and counting!), I've been deeply involved in the world of w
  > 
 > 🔑 64 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                648 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+🌆 Daytime                1352 commits        ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+🌃 Evening                2037 commits        █████████░░░░░░░░░░░░░░░░   35.98 % 
+🌙 Night                  1625 commits        ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   842 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Tuesday                  690 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Wednesday                501 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Thursday                 623 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Friday                   332 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Saturday                 998 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Sunday                   1676 commits        ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+JavaScript               5 hrs 53 mins       ███████████░░░░░░░░░░░░░░   45.13 % 
+Vue.js                   1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+PHP                      1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Other                    1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+TypeScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 51 mins      ███████████████████████░░   90.91 % 
+Warp                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Postman                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+
+💻 Operating System: 
+Mac                      13 hrs 3 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -57,7 +99,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2025 18:55:56 UTC
+ Last Updated on 02/07/2025 18:56:45 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
