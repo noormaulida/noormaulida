@@ -34,8 +34,6 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 > 📦 507.6 kB Used in GitHub's Storage 
  > 
-> 🏆 336 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 36 Public Repositories 
@@ -102,7 +100,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2025 18:50:20 UTC
+ Last Updated on 01/09/2025 18:51:27 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
