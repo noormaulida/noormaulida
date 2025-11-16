@@ -10,7 +10,7 @@
 
 #### Technologies I'm Proficient In
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,laravel,nodejs,vue,react,flutter,python,mongodb,docker,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=go,laravel,nodejs,typescript,vue,react,flutter,python,mongodb,docker,aws,gcp" />
 </p>
 <br>
 
