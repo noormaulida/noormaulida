@@ -26,7 +26,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C488%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C490%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -34,7 +34,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 > 📦 449.4 kB Used in GitHub's Storage 
  > 
-> 🏆 397 Contributions in the Year 2025
+> 🏆 401 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -69,19 +69,19 @@ Sunday                   1520 commits        ███████░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 41 mins       █████████████████░░░░░░░░   67.03 % 
-TypeScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Other                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-HTTP Request             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Vue.js                   5 hrs 4 mins        ████████████████░░░░░░░░░   65.42 % 
+TypeScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Other                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+HTTP Request             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-Trae                     8 hrs 3 mins        ████████████████████████░   94.76 % 
-Postman                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Warp                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Trae                     7 hrs 20 mins       ████████████████████████░   94.64 % 
+Postman                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Warp                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
-Mac                      8 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -101,7 +101,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2025 18:54:45 UTC
+ Last Updated on 28/11/2025 18:53:43 UTC
 <!--END_SECTION:waka-->
 
 #### Top Programming Languages ✨
