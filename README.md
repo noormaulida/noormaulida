@@ -114,9 +114,6 @@ C++                      2 repos             █░░░░░░░░░░�
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=noormaulida&theme=react&hide_border=true&mode=weekly" height="180" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=noormaulida&theme=react&count_private=true&hide_border=true&line_height=20" height="180"/>
-      </td>
     </tr>
 </p>
 <br>
