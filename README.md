@@ -101,19 +101,4 @@ C++                      2 repos             █░░░░░░░░░░�
 
  Last Updated on 07/01/2026 19:03:12 UTC
 <!--END_SECTION:waka-->
-
-#### Top Programming Languages ✨
-<p align="center">
-  <img src="https://api.githubtrends.io/user/svg/noormaulida/langs?time_range=one_year&include_private=true&compact=true&theme=dark" />
-</p>
-
-#### Github Stats ⚡
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=noormaulida&theme=react&hide_border=true&mode=weekly" height="180" />
-      </td>
-    </tr>
-</p>
 <br>
