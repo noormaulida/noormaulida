@@ -26,7 +26,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C627%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C628%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -69,17 +69,17 @@ Sunday                   1675 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Vue.js                   4 hrs 45 mins       ███████████████████░░░░░░   74.58 % 
-TypeScript               59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Vue.js                   3 hrs 5 mins        ████████████████████░░░░░   79.99 % 
+TypeScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -99,6 +99,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2026 19:52:04 UTC
+ Last Updated on 21/01/2026 19:11:30 UTC
 <!--END_SECTION:waka-->
 <br>
