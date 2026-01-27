@@ -28,11 +28,11 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C629%20hrs%2017%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 450.1 kB Used in GitHub's Storage 
+> 📦 450.2 kB Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2026
  > 
@@ -69,17 +69,17 @@ Sunday                   1675 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Vue.js                   59 mins             ████████████░░░░░░░░░░░░░   47.66 % 
-TypeScript               35 mins             ███████░░░░░░░░░░░░░░░░░░   28.28 % 
-JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-SQL                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+TypeScript               38 mins             ███████████████░░░░░░░░░░   59.11 % 
+JavaScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+SQL                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -99,6 +99,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2026 19:07:29 UTC
+ Last Updated on 27/01/2026 19:10:34 UTC
 <!--END_SECTION:waka-->
 <br>
