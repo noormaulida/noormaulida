@@ -26,7 +26,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C641%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C642%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -69,15 +69,14 @@ Sunday                   1675 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Vue.js                   50 mins             ███████████████████░░░░░░   77.04 % 
-Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Vue.js                   29 mins             ███████████████████░░░░░░   76.98 % 
+Other                    8 mins              ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
 
 🔥 Editors: 
-Trae                     1 hr 5 mins         █████████████████████████   100.00 % 
+Trae                     38 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
+Mac                      38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -97,6 +96,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2026 19:30:13 UTC
+ Last Updated on 20/02/2026 19:28:28 UTC
 <!--END_SECTION:waka-->
 <br>
