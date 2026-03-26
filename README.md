@@ -26,7 +26,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C670%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C670%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -69,15 +69,18 @@ Sunday                   1675 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Vue.js                   39 mins             ███████████████████████░░   93.34 % 
-Image (svg)              2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Vue.js                   2 hrs 20 mins       █████████████████████░░░░   85.90 % 
+JavaScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Sass                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Trae                     39 mins             ███████████████████████░░   93.34 % 
-Figma                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Trae                     2 hrs 41 mins       █████████████████████████   98.61 % 
+Figma                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 💻 Operating System: 
-Mac                      42 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -97,6 +100,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2026 19:33:30 UTC
+ Last Updated on 26/03/2026 19:42:31 UTC
 <!--END_SECTION:waka-->
 <br>
