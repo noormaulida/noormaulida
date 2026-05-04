@@ -26,13 +26,13 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C707%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C708%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 450.2 kB Used in GitHub's Storage 
+> 📦 450.3 kB Used in GitHub's Storage 
  > 
 > 🏆 39 Contributions in the Year 2026
  > 
@@ -69,17 +69,19 @@ Sunday                   1637 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Svelte                   4 hrs 34 mins       ███████████░░░░░░░░░░░░░░   42.06 % 
-JavaScript               2 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Vue                      1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-PHP                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Svelte                   4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+Dart                     4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+Vue                      2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+JavaScript               2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+PHP                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-Trae                     10 hrs 53 mins      █████████████████████████   100.00 % 
+Trae                     16 hrs 3 mins       █████████████████████████   98.89 % 
+Android Studio           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Figma                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Mac                      10 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -99,6 +101,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2026 19:38:32 UTC
+ Last Updated on 04/05/2026 20:10:15 UTC
 <!--END_SECTION:waka-->
 <br>
