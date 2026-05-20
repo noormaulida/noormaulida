@@ -26,7 +26,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C724%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C725%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -69,17 +69,16 @@ Sunday                   1633 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Dart                     3 hrs 1 min         █████████████████░░░░░░░░   67.21 % 
-Go                       29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-PHP                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-SQL                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Dart                     2 hrs 53 mins       █████████████████████████   98.39 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Trae                     4 hrs 29 mins       █████████████████████████   100.00 % 
+Trae                     2 hrs 56 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -99,6 +98,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2026 20:21:49 UTC
+ Last Updated on 20/05/2026 20:40:13 UTC
 <!--END_SECTION:waka-->
 <br>
