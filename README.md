@@ -26,9 +26,9 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C740%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C739%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -69,17 +69,18 @@ Sunday                   2059 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Markdown                 25 mins             █████████████░░░░░░░░░░░░   50.82 % 
-Git Config               15 mins             ████████░░░░░░░░░░░░░░░░░   30.03 % 
-YAML                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Markdown                 25 mins             ██████████░░░░░░░░░░░░░░░   40.83 % 
+Git Config               15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+YAML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+HTTP Request             5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 
 🔥 Editors: 
-Trae                     50 mins             █████████████████████████   100.00 % 
+Trae                     57 mins             ███████████████████████░░   91.13 % 
+Postman                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 
 💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -99,6 +100,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2026 20:41:44 UTC
+ Last Updated on 24/06/2026 20:26:23 UTC
 <!--END_SECTION:waka-->
 <br>
