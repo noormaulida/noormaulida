@@ -26,7 +26,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C777%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C778%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -69,14 +69,14 @@ Sunday                   2059 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Vue                      7 hrs 17 mins       ███████████████░░░░░░░░░░   60.44 % 
-JavaScript               1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Vue                      7 hrs 17 mins       ███████████████░░░░░░░░░░   60.50 % 
+JavaScript               1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
 JSON                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 HTTP Request             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-Trae                     11 hrs 36 mins      ████████████████████████░   96.16 % 
+Trae                     11 hrs 35 mins      ████████████████████████░   96.16 % 
 Postman                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 💻 Operating System: 
@@ -100,6 +100,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2026 19:48:33 UTC
+ Last Updated on 19/07/2026 19:47:52 UTC
 <!--END_SECTION:waka-->
 <br>
