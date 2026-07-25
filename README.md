@@ -26,6 +26,8 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C788%20hrs%2039%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -67,18 +69,18 @@ Sunday                   2059 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-HTTP Request             2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-Go                       2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-PHP                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-TSV                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Python                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+HTTP Request             3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+Go                       2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+PHP                      2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+TSV                      1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Python                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 🔥 Editors: 
-Trae                     8 hrs 14 mins       ███████████████████░░░░░░   76.34 % 
-Postman                  2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+Trae                     10 hrs 18 mins      ██████████████████░░░░░░░   72.64 % 
+Postman                  3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.36 % 
 
 💻 Operating System: 
-Mac                      10 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -98,6 +100,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 20:03:15 UTC
+ Last Updated on 25/07/2026 19:50:03 UTC
 <!--END_SECTION:waka-->
 <br>
