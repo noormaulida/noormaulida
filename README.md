@@ -26,17 +26,13 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C646%20hrs%2021%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%207%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 508.6 kB Used in GitHub's Storage 
+> 📦 510.1 kB Used in GitHub's Storage 
  > 
-> 🏆 63 Contributions in the Year 2026
+> 🏆 70 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,21 +43,21 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2870 commits        ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-🌆 Daytime                2804 commits        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-🌃 Evening                2848 commits        ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-🌙 Night                  1677 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+🌞 Morning                2870 commits        ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+🌆 Daytime                2809 commits        ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+🌃 Evening                2848 commits        ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+🌙 Night                  1679 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1223 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Tuesday                  1289 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Wednesday                1566 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Thursday                 1165 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Friday                   1489 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Saturday                 1400 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Sunday                   2067 commits        █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Monday                   1223 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Tuesday                  1296 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Wednesday                1566 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Thursday                 1165 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Friday                   1489 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Saturday                 1400 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Sunday                   2067 commits        █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
 ```
 
 
@@ -71,18 +67,18 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-HTTP Request             3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-Go                       2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-PHP                      2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-TSV                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Python                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+HTTP Request             3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Go                       2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+PHP                      2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Svelte                   1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+TSV                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 
 🔥 Editors: 
-Trae                     12 hrs 33 mins      ███████████████████░░░░░░   76.36 % 
-Postman                  3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Trae                     14 hrs 22 mins      ████████████████████░░░░░   78.74 % 
+Postman                  3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
 
 💻 Operating System: 
-Mac                      16 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,6 +104,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:11:21 UTC
+ Last Updated on 28/07/2026 20:10:09 UTC
 <!--END_SECTION:waka-->
 <br>
