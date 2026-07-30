@@ -26,7 +26,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C650%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C651%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%207%20mins-blue?style=flat)
 
@@ -34,9 +34,9 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 **🐱 My GitHub Data** 
 
-> 📦 511.0 kB Used in GitHub's Storage 
+> 📦 511.1 kB Used in GitHub's Storage 
  > 
-> 🏆 74 Contributions in the Year 2026
+> 🏆 75 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,7 +47,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2872 commits        ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+🌞 Morning                2873 commits        ███████░░░░░░░░░░░░░░░░░░   28.14 % 
 🌆 Daytime                2809 commits        ███████░░░░░░░░░░░░░░░░░░   27.51 % 
 🌃 Evening                2848 commits        ███████░░░░░░░░░░░░░░░░░░   27.89 % 
 🌙 Night                  1681 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
@@ -58,7 +58,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 Monday                   1223 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 Tuesday                  1296 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 Wednesday                1570 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Thursday                 1165 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Thursday                 1166 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
 Friday                   1489 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 Saturday                 1400 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
 Sunday                   2067 commits        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
@@ -71,18 +71,18 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-HTTP Request             2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Go                       2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Svelte                   2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-PHP                      2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-TSV                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Svelte                   2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+PHP                      1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Markdown                 1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+HTTP Request             1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+TSV                      1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 
 🔥 Editors: 
-Trae                     13 hrs 54 mins      █████████████████████░░░░   82.92 % 
-Postman                  2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Trae                     12 hrs 13 mins      ██████████████████████░░░   89.39 % 
+Postman                  1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
 
 💻 Operating System: 
-Mac                      16 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,6 +108,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 19:59:39 UTC
+ Last Updated on 30/07/2026 20:09:09 UTC
 <!--END_SECTION:waka-->
 <br>
