@@ -26,7 +26,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C653%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C657%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%207%20mins-blue?style=flat)
 
@@ -34,7 +34,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 **🐱 My GitHub Data** 
 
-> 📦 512.1 kB Used in GitHub's Storage 
+> 📦 512.2 kB Used in GitHub's Storage 
  > 
 > 🏆 79 Contributions in the Year 2026
  > 
@@ -71,18 +71,18 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-PHP                      2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Svelte                   2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Vue                      2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-HTTP Request             1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Vue                      2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+PHP                      2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Svelte                   2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Markdown                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+TypeScript               1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
 
 🔥 Editors: 
-Trae                     14 hrs 19 mins      ███████████████████████░░   91.07 % 
-Postman                  1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Trae                     14 hrs 36 mins      █████████████████████████   99.50 % 
+Postman                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Mac                      15 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,6 +108,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 20:10:16 UTC
+ Last Updated on 01/08/2026 19:51:17 UTC
 <!--END_SECTION:waka-->
 <br>
