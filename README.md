@@ -71,18 +71,18 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Vue                      2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-PHP                      2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Svelte                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Vue                      2 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+PHP                      2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Sass                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🔥 Editors: 
-Trae                     10 hrs 25 mins      █████████████████████████   99.30 % 
-Postman                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Trae                     9 hrs 23 mins       ████████████████████████░   95.91 % 
+Postman                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 💻 Operating System: 
-Mac                      10 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,6 +108,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:15:57 UTC
+ Last Updated on 05/08/2026 20:16:34 UTC
 <!--END_SECTION:waka-->
 <br>
