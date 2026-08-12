@@ -71,16 +71,16 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-JSON                     20 mins             ████████████░░░░░░░░░░░░░   46.57 % 
-HTTP Request             19 mins             ███████████░░░░░░░░░░░░░░   45.53 % 
-Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+HTTP Request             0 secs              ██████████████░░░░░░░░░░░   57.34 % 
+PHP                      0 secs              ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+Vue                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 
 🔥 Editors: 
-Trae                     23 mins             ██████████████░░░░░░░░░░░   54.47 % 
-Postman                  19 mins             ███████████░░░░░░░░░░░░░░   45.53 % 
+Postman                  0 secs              ██████████████░░░░░░░░░░░   57.34 % 
+Trae                     0 secs              ███████████░░░░░░░░░░░░░░   42.66 % 
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -106,6 +106,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 19:42:00 UTC
+ Last Updated on 12/08/2026 19:46:13 UTC
 <!--END_SECTION:waka-->
 <br>
