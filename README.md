@@ -26,7 +26,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C660%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C661%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%207%20mins-blue?style=flat)
 
@@ -71,15 +71,16 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Vue                      8 mins              ███████████████████████░░   93.88 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+PHP                      59 mins             ████████████░░░░░░░░░░░░░   47.39 % 
+Vue                      57 mins             ████████████░░░░░░░░░░░░░   46.03 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Trae                     9 mins              █████████████████████████   100.00 % 
+Trae                     2 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+Mac                      2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,6 +106,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 19:14:10 UTC
+ Last Updated on 19/08/2026 19:09:50 UTC
 <!--END_SECTION:waka-->
 <br>
