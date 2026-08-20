@@ -26,7 +26,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C661%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C662%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%207%20mins-blue?style=flat)
 
@@ -72,8 +72,9 @@ Sunday                   2067 commits        █████░░░░░░�
 
 💬 Programming Languages: 
 PHP                      59 mins             ████████████░░░░░░░░░░░░░   47.39 % 
-Vue                      57 mins             ████████████░░░░░░░░░░░░░   46.03 % 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Vue                      57 mins             ███████████░░░░░░░░░░░░░░   45.97 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
@@ -106,6 +107,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:09:50 UTC
+ Last Updated on 20/08/2026 19:16:55 UTC
 <!--END_SECTION:waka-->
 <br>
