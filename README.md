@@ -71,17 +71,17 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Vue                      2 hrs 52 mins       █████████████░░░░░░░░░░░░   51.39 % 
-PHP                      1 hr 59 mins        █████████░░░░░░░░░░░░░░░░   35.56 % 
-JavaScript               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Vue                      2 hrs 44 mins       █████████████░░░░░░░░░░░░   50.16 % 
+PHP                      1 hr 59 mins        █████████░░░░░░░░░░░░░░░░   36.55 % 
+JavaScript               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Trae                     5 hrs 36 mins       █████████████████████████   100.00 % 
+Trae                     5 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 36 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,6 +107,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:17:08 UTC
+ Last Updated on 25/08/2026 19:15:52 UTC
 <!--END_SECTION:waka-->
 <br>
