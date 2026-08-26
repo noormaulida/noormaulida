@@ -71,17 +71,17 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Vue                      2 hrs 44 mins       █████████████░░░░░░░░░░░░   50.16 % 
-PHP                      1 hr 59 mins        █████████░░░░░░░░░░░░░░░░   36.55 % 
-JavaScript               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Vue                      1 hr 55 mins        ██████████████░░░░░░░░░░░   54.55 % 
+PHP                      1 hr                ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+JavaScript               35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Trae                     5 hrs 27 mins       █████████████████████████   100.00 % 
+Trae                     3 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,6 +107,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 19:15:52 UTC
+ Last Updated on 26/08/2026 21:05:35 UTC
 <!--END_SECTION:waka-->
 <br>
