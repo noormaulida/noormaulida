@@ -71,11 +71,10 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Vue                      1 hr 55 mins        ██████████████░░░░░░░░░░░   54.55 % 
-PHP                      1 hr                ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-JavaScript               35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Vue                      1 hr 55 mins        ██████████████░░░░░░░░░░░   54.59 % 
+PHP                      1 hr                ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+JavaScript               35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
 Trae                     3 hrs 31 mins       █████████████████████████   100.00 % 
@@ -107,6 +106,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 21:05:35 UTC
+ Last Updated on 28/08/2026 02:23:35 UTC
 <!--END_SECTION:waka-->
 <br>
