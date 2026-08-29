@@ -26,7 +26,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C666%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C668%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%207%20mins-blue?style=flat)
 
@@ -71,16 +71,17 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Vue                      1 hr 55 mins        ██████████████░░░░░░░░░░░   54.59 % 
-PHP                      1 hr                ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-JavaScript               35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Vue                      1 hr 27 mins        ███████████████████░░░░░░   77.45 % 
+PHP                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Trae                     3 hrs 31 mins       █████████████████████████   100.00 % 
+Trae                     1 hr 52 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -106,6 +107,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 02:23:35 UTC
+ Last Updated on 29/08/2026 01:58:20 UTC
 <!--END_SECTION:waka-->
 <br>
