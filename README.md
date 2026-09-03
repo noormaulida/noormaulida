@@ -26,9 +26,9 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C670%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C670%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -71,23 +71,39 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Vue                      1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   36.49 % 
-PHP                      1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-Other                    43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-JavaScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+PHP                      1 hr 57 mins        █████████░░░░░░░░░░░░░░░░   36.74 % 
+Vue                      1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   30.39 % 
+Other                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 🔥 Editors: 
-Trae                     4 hrs 27 mins       █████████████████████████   100.00 % 
+Trae                     4 hrs 27 mins       █████████████████████░░░░   83.29 % 
+VS Code                  36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Antigravity Desktop      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 💻 Operating System: 
-Mac                      4 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 52 mins (16.25%)
+
+✍️ 0 lines written by AI, 618 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 14 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 2,489 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -107,6 +123,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:19:55 UTC
+ Last Updated on 03/09/2026 21:22:44 UTC
 <!--END_SECTION:waka-->
 <br>
