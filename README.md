@@ -71,27 +71,27 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-PHP                      2 hrs 13 mins       █████████████░░░░░░░░░░░░   50.05 % 
-Other                    59 mins             ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-YAML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Vue                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+PHP                      1 hr 9 mins         █████████████░░░░░░░░░░░░   53.98 % 
+YAML                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Other                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-Trae                     3 hrs 31 mins       ████████████████████░░░░░   79.69 % 
-VS Code                  36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Antigravity Desktop      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Trae                     1 hr 14 mins        ███████████████░░░░░░░░░░   58.10 % 
+VS Code                  36 mins             ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+Antigravity Desktop      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
 
 💻 Operating System: 
-Mac                      4 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 mins (19.62%)
+⏱ AI Coding Time: 52 mins (40.47%)
 
-✍️ 0 lines written by AI, 357 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 20 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -123,6 +123,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:49:24 UTC
+ Last Updated on 08/09/2026 21:27:08 UTC
 <!--END_SECTION:waka-->
 <br>
