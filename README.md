@@ -26,7 +26,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C679%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C680%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%209%20mins-blue?style=flat)
 
@@ -71,27 +71,27 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Vue                      2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-PHP                      1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Go                       1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Markdown                 1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-C#                       40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Vue                      2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+PHP                      2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+Markdown                 1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Go                       1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+C#                       40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 
 🔥 Editors: 
-Trae                     8 hrs 54 mins       █████████████████████████   98.13 % 
-Antigravity Desktop      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Trae                     9 hrs 56 mins       █████████████████████████   98.32 % 
+Antigravity Desktop      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-Mac                      9 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      10 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (1.88%)
+⏱ AI Coding Time: 10 mins (1.69%)
 
-✍️ 0 lines written by AI, 2,296 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,385 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -123,6 +123,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 22:04:39 UTC
+ Last Updated on 15/09/2026 21:46:28 UTC
 <!--END_SECTION:waka-->
 <br>
