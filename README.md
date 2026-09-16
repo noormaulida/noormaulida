@@ -26,7 +26,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C680%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C681%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%209%20mins-blue?style=flat)
 
@@ -71,39 +71,23 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Vue                      2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-PHP                      2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Markdown                 1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Go                       1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-C#                       40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Vue                      2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Markdown                 1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Go                       1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+PHP                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 
 🔥 Editors: 
-Trae                     9 hrs 56 mins       █████████████████████████   98.32 % 
-Antigravity Desktop      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Trae                     8 hrs 59 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (1.69%)
-
-✍️ 0 lines written by AI, 2,385 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 62 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,035 characters per prompt
-🔁 Iterative Prompter — average 62 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -123,6 +107,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 21:46:28 UTC
+ Last Updated on 16/09/2026 21:44:12 UTC
 <!--END_SECTION:waka-->
 <br>
