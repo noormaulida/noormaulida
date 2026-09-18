@@ -18,3 +18,4 @@ jobs:
           SHOW_AI_CODE_TIME: "False"
           SHOW_AI_CODE_STATS: "False"
           SHOW_AI_CODING: "False"
+          SHOW_EDITORS: "False"
