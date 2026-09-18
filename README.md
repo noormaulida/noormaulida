@@ -20,7 +20,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 * Designing and implementing microservices architectures for high-traffic applications
 * Leading and mentoring development large teams, fostering collaborative environments
 * Developing and deploying machine learning models for predictive analytics
-* Deep understanding and implementation experience with IoT protocols like CANbus, Bluetooth Low Energy (BLE), MQTT, CoAP, XMPP, and DDS
+* Strong experience in IoT systems and device communication, including CANbus, Bluetooth Low Energy (BLE), MQTT, CoAP, XMPP, and DDS, with hands-on experience in binary protocol parsing, packet decoding, telemetry processing, and real-time data ingestion
 * Proficiency in reactive programming paradigms and frameworks like RxJava (Android), RxSwift (iOS), or using reactive state management solutions in cross-platform frameworks (e.g., RxDart in Flutter, RxJS in React Native)
 * Profiling and optimizing app performance for smooth animations, efficient resource usage, and fast load times, including memory management and multithreading
 
