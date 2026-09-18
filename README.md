@@ -46,7 +46,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 ```text
 🌞 Morning                2891 commits        ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-🌆 Daytime                2816 commits        ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+🌆 Daytime                2817 commits        ███████░░░░░░░░░░░░░░░░░░   27.52 % 
 🌃 Evening                2848 commits        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
 🌙 Night                  1681 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
 ```
@@ -57,7 +57,7 @@ Monday                   1227 commits        ███░░░░░░░░�
 Tuesday                  1296 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
 Wednesday                1574 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 Thursday                 1167 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Friday                   1505 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Friday                   1506 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
 Saturday                 1400 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
 Sunday                   2067 commits        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
 ```
@@ -85,29 +85,6 @@ VS Code                  5 mins              ░░░░░░░░░░░�
 Mac                      8 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 5 mins (25.61%)
-
-✍️ 3,868 lines written by AI, 1,038 lines written by hand (78.84% AI-written)
-
-🔤 10,251 Input Tokens, 10,251 Output Tokens
-
-💵 $0.08 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 26 AI Prompts
-
-Grok                     5,166 lines         █████████████████████████   99.88 % 
-Cursor                   6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 78.84% of written lines came from AI
-📚 Verbose Prompter — average 2,003 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 25.82% of changed lines were hand-edited
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -125,6 +102,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 09:25:31 UTC
+ Last Updated on 18/09/2026 09:39:53 UTC
 <!--END_SECTION:waka-->
 <br>
