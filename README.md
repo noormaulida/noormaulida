@@ -69,24 +69,24 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-PHP                      1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-JavaScript               1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Vue                      58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+PHP                      1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Vue                      58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+JavaScript               49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Markdown                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 
 💻 Operating System: 
-Mac                      5 hrs 36 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
 
 ```text
-Go                       20 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-TypeScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Go                       20 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+TypeScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+JavaScript               10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 ```
 
 
@@ -96,6 +96,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 22:16:10 UTC
+ Last Updated on 22/09/2026 21:42:49 UTC
 <!--END_SECTION:waka-->
 <br>
