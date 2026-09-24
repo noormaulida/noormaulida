@@ -26,7 +26,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C685%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C685%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue?style=flat)
 
@@ -69,14 +69,14 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-PHP                      1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-Vue                      58 mins             ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-JavaScript               49 mins             █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Markdown                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-XML                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Vue                      58 mins             ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+PHP                      54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+Go                       47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Markdown                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+JavaScript               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
 
 💻 Operating System: 
-Mac                      4 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -96,6 +96,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 21:48:42 UTC
+ Last Updated on 24/09/2026 21:49:41 UTC
 <!--END_SECTION:waka-->
 <br>
