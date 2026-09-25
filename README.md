@@ -69,14 +69,14 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Vue                      58 mins             ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-PHP                      54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-Go                       47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Markdown                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-JavaScript               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Go                       47 mins             ███████████░░░░░░░░░░░░░░   45.06 % 
+PHP                      20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Markdown                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+XML                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Vue                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 💻 Operating System: 
-Mac                      4 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -96,6 +96,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 21:49:41 UTC
+ Last Updated on 25/09/2026 21:52:23 UTC
 <!--END_SECTION:waka-->
 <br>
