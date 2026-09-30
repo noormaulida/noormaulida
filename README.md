@@ -26,40 +26,40 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 #### Development Metrics ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C685%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C686%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 512.3 kB Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2026
+> 🏆 113 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
 > 🔑 71 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2891 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-🌆 Daytime                2829 commits        ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-🌃 Evening                2848 commits        ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-🌙 Night                  1681 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+🌞 Morning                2909 commits        ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+🌆 Daytime                2844 commits        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+🌃 Evening                2848 commits        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+🌙 Night                  1681 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1227 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Tuesday                  1303 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Wednesday                1576 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Thursday                 1167 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Friday                   1509 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Saturday                 1400 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Sunday                   2067 commits        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Monday                   1227 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Tuesday                  1317 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Wednesday                1595 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Thursday                 1167 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Friday                   1509 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Saturday                 1400 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Sunday                   2067 commits        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
 ```
 
 
@@ -69,20 +69,24 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Go                       34 mins             █████████████████████████   100.00 % 
+Go                       1 hr 7 mins         █████████████████░░░░░░░░   67.02 % 
+Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+YAML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 💻 Operating System: 
-Mac                      34 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
 
 ```text
-Go                       21 repos            ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-TypeScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-JavaScript               10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Go                       22 repos            ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+TypeScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+JavaScript               10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 ```
 
 
@@ -92,6 +96,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 22:38:35 UTC
+ Last Updated on 30/09/2026 22:36:49 UTC
 <!--END_SECTION:waka-->
 <br>
