@@ -32,7 +32,7 @@ For the past decade (and counting!), I've been deeply involved in the world of w
 
 **🐱 My GitHub Data** 
 
-> 📦 512.3 kB Used in GitHub's Storage 
+> 📦 512.4 kB Used in GitHub's Storage 
  > 
 > 🏆 113 Contributions in the Year 2026
  > 
@@ -69,14 +69,14 @@ Sunday                   2067 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Go                       1 hr 7 mins         █████████████████░░░░░░░░   67.02 % 
-Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-YAML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Go                       32 mins             ████████████░░░░░░░░░░░░░   49.49 % 
+Markdown                 17 mins             ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+YAML                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 💻 Operating System: 
-Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -96,6 +96,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/noormaulida/noormaulida/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 22:36:49 UTC
+ Last Updated on 01/10/2026 22:57:14 UTC
 <!--END_SECTION:waka-->
 <br>
